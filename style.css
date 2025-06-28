@@ -61,7 +61,7 @@ main>a {
     top: 380px;
     left: 520px;
     background: linear-gradient(to right, rgb(127, 19, 177), rgba(131, 6, 204, 0.555));
-    max-width: 400px; /*adptar para a visualização por celular*/
+
     padding: 20px;
     border: 1px solid rgba(80, 80, 80, 0.342);
     border-radius: 30px;     
